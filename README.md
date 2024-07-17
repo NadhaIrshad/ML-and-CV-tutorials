@@ -1,3 +1,3 @@
-# Machine-Learning-projects-
+# Machine-Learning-projects
 
 Learning, Coding, Innovating: My Machine Learning Journey
