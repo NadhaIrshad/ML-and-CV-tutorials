@@ -1,5 +1,4 @@
 # Machine-Learning-projects
-
 Learning, Coding, Innovating: My Machine Learning Journey
 
 Welcome to my repository showcasing a series of machine learning projects! After completing a series of specialized courses in machine learning, I embarked on applying my knowledge to real-world problems through various projects.
