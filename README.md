@@ -9,4 +9,5 @@ In this repository, you will find a collection of my experiments with different 
 
 Feel free to explore the code, experiment with the models, and contribute to the discussion!
 
-![image](https://github.com/user-attachments/assets/b902891f-21df-41d5-9d2d-402410a7b093)
+![image](https://github.com/user-attachments/assets/b902891f-21df-41d5-9d2d-402410a7b093) ![image](https://github.com/user-attachments/assets/5606d943-e4d1-48e8-9410-62c4a2d6ae8e)
+
