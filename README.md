@@ -8,3 +8,5 @@ My journey began with basic logistic regression models and has evolved to includ
 In this repository, you will find a collection of my experiments with different models, each meticulously developed and trained to achieve optimal accuracy. My goal is to continually refine these models and enhance their performance, contributing to my ongoing learning and growth in the field of machine learning.
 
 Feel free to explore the code, experiment with the models, and contribute to the discussion!
+
+![image](https://github.com/user-attachments/assets/b902891f-21df-41d5-9d2d-402410a7b093)
