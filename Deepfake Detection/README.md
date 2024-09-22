@@ -5,7 +5,7 @@ I have referenced two research papers that provide foundational insights into de
 
 ![image](https://github.com/user-attachments/assets/97230933-4bee-4bcb-9315-d4f719394e11) ![image](https://github.com/user-attachments/assets/58a23b1a-dce1-4c9e-b458-088c923850d6)
 
-### Deepfake Image Detection
+### 1. Deepfake Image Detection
 
 #### Project Overview
 This project focuses on developing robust models for detecting deepfake images using Convolutional Neural Networks (CNN) and a combined approach of CNN and Long Short-Term Memory (LSTM) networks.
