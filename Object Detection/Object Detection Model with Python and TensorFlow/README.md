@@ -1,4 +1,4 @@
-# Object Detection using Python and TensorFlow
+## Object Detection using Python and TensorFlow
 
 This project implements an object detection pipeline using Python and TensorFlow, from image acquisition to model training and final inference on both images and videos. The implementation leverages several libraries and tools for data preprocessing, augmentation, model design, and results visualization.
 
@@ -69,5 +69,5 @@ https://github.com/user-attachments/assets/26878efc-9aac-40c9-8708-d5494d1be9b8
 
 
 ## **Acknowledgments**
-- https://youtu.be/N_W4EYtsa10?si=cNU2TJLwiRy0R9e9
+- Nicholas Renotte YT channel https://youtu.be/N_W4EYtsa10?si=cNU2TJLwiRy0R9e9
 
