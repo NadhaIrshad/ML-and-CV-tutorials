@@ -1,1 +1,3 @@
+Dataset - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm5tNGI4VGlDM2pfb3BoSlVpSlBNbzZsMXVZZ3xBQ3Jtc0tsRjV1UC1kOWhKeUlZQ3dVdXI3ckVPMTFMMjIxbkp6WXJPWUJuR2RFTWVfcUZtWlIyc2RRcnpCUVdlMlpxSk1KN0x3dzg2Z2xjSkpCV0pRVWxvUzJ2Y2JGZGtsNGNFb2VpOUhGR0hJRmRzNkNvQ3E0SQ&q=https%3A%2F%2Funiverse.roboflow.com%2Froboflow-universe-projects%2Flicense-plate-recognition-rxg4e%2Fdataset%2F4&v=POmyidzahLg
 
+Reference - https://youtu.be/POmyidzahLg?si=a6QVZS2-ZA9EhLHk
