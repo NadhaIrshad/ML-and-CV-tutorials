@@ -1,5 +1,18 @@
-# Dog Breed Classification Using CNN and Transfer Learning
+# Xception Model Overview 
+https://viso.ai/deep-learning/xception-model/ 
+![image](https://github.com/user-attachments/assets/3525b14e-f40d-4a86-a94b-5ec4c0070c0c)
+What is the key idea behind Xception?
+Instead of applying convolutions on all input channels at once, Xception applies:
 
+ - Depthwise convolution: Applies a single convolutional filter per input channel (independently).
+
+ - Pointwise convolution: Applies a 1x1 convolution to combine the outputs of depthwise convolutions across channels.
+
+This is called depthwise separable convolution.
+
+https://www.x-mol.net/paper/article/1448033641280892928
+
+# Dog Breed Classification Using CNN and Transfer Learning
 This project aims to classify dog breeds from images using convolutional neural networks (CNN) and transfer learning with pre-trained models like Xception. The solution includes data preprocessing, model training, hyperparameter tuning, fine-tuning, and a prediction interface.
 
 ---
